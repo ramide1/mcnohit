@@ -1,7 +1,7 @@
 main: com.ramide1.mcnohit.App
 name: mcnohit
 version: 1.0
-api-version: 1.20
+api-version: 1.21
 commands:
   deathcount:
     description: Ver la cantidad de muertes de un jugador
